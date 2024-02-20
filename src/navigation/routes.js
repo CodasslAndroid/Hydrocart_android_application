@@ -1,0 +1,33 @@
+export const Routes = {
+  OUTSIDE_STACK: 'Outside Stack',
+  ...{
+    WELCOMESCREEN: 'Welcome Screen',
+    SIGNIN: 'SignIn',
+    SIGNUP: 'SignUp',
+    OTPVERIFICATION: 'Otp Verification',
+    FORGOTPASSWORD: 'Forgot Password',
+    PASSWORDRESET: 'Password Reset',
+    PASSWORDCHANGE: 'Password Change',
+    PASSWORDSUCCESS: 'Password Success',
+  },
+  INSIDE_STACK: 'Inside Stack',
+  ...{
+    BOTTOMSTACK: 'Bottom Stack',
+    HOME: 'Home',
+    CART: 'Cart',
+    WISHLIST: 'Wishlist',
+    ORDER: 'Order',
+    SEARCH: 'Search',
+    MANAGE_ACCOUNT: 'Manage Account',
+    ADDRESS_LIST: 'Address List',
+    ADD_ADDRESS: 'Add Address',
+    FEEDBACK: 'FeedBack',
+    PAYMENT: 'Payment',
+    EDITPROFILE: 'Edit Profile',
+    LAUNCH_CAMERA_MODAL: 'LAUNCH_CAMERA_MODAL',
+    ORDERDETAIL: 'Orde details',
+    POLICY_PAGE: 'PoliciesPages',
+  },
+
+  ...{},
+};
