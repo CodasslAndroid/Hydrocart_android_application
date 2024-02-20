@@ -91,6 +91,23 @@
                     }
                 },
                 {
+                    "source": "/Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-date-picker/android/build/intermediates/packaged_res/debug/values-sv/values-sv.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,111,171,227,286,330,391,439,499,551,597",
+                        "endColumns": "55,59,55,58,43,60,47,59,51,45,56",
+                        "endOffsets": "106,166,222,281,325,386,434,494,546,592,649"
+                    },
+                    "to": {
+                        "startLines": "34,63,64,68,69,91,92,93,130,148,150",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "3062,6732,6792,7074,7133,8669,8730,8778,11669,13070,13194",
+                        "endColumns": "55,59,55,58,43,60,47,59,51,45,56",
+                        "endOffsets": "3113,6787,6843,7128,7172,8725,8773,8833,11716,13111,13246"
+                    }
+                },
+                {
                     "source": "/Users/riyaz/.gradle/caches/transforms-3/b4db2f23f2ab214a51186ce21dfe946e/transformed/jetified-react-android-0.73.4-debug/res/values-sv/values-sv.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26",
@@ -105,23 +122,6 @@
                         "startOffsets": "2989,3572,3954,7003,7241,7309,7450,8451,8518,8592,11799,11881,11960,12029,12191,12274,12351,12434,12513,12590,12660,12729,12915,12995,13116",
                         "endColumns": "72,82,82,70,67,80,66,66,73,76,81,78,68,81,82,76,82,78,76,69,68,84,79,74,77",
                         "endOffsets": "3057,3650,4032,7069,7304,7385,7512,8513,8587,8664,11876,11955,12024,12106,12269,12346,12429,12508,12585,12655,12724,12809,12990,13065,13189"
-                    }
-                },
-                {
-                    "source": "/Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-date-picker/android/build/intermediates/packaged_res/debug/values-sv/values-sv.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,111,171,227,286,330,391,439,499,551,597",
-                        "endColumns": "55,59,55,58,43,60,47,59,51,45,56",
-                        "endOffsets": "106,166,222,281,325,386,434,494,546,592,649"
-                    },
-                    "to": {
-                        "startLines": "34,63,64,68,69,91,92,93,130,148,150",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "3062,6732,6792,7074,7133,8669,8730,8778,11669,13070,13194",
-                        "endColumns": "55,59,55,58,43,60,47,59,51,45,56",
-                        "endOffsets": "3113,6787,6843,7128,7172,8725,8773,8833,11716,13111,13246"
                     }
                 }
             ]

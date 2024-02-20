@@ -1,27 +1,27 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/riyaz/Best_Labz/New_project/hydroCart/android/app/src/main/AndroidManifest.xml:1:1-25:12
-MERGED from /Users/riyaz/Best_Labz/New_project/hydroCart/android/app/src/main/AndroidManifest.xml:1:1-25:12
-INJECTED from /Users/riyaz/Best_Labz/New_project/hydroCart/android/app/src/debug/AndroidManifest.xml:2:1-9:12
-INJECTED from /Users/riyaz/Best_Labz/New_project/hydroCart/android/app/src/debug/AndroidManifest.xml:2:1-9:12
-INJECTED from /Users/riyaz/Best_Labz/New_project/hydroCart/android/app/src/debug/AndroidManifest.xml:2:1-9:12
+ADDED from /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/android/app/src/main/AndroidManifest.xml:1:1-25:12
+MERGED from /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/android/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/android/app/src/debug/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/android/app/src/debug/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/android/app/src/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.react:flipper-integration:0.73.4] /Users/riyaz/.gradle/caches/transforms-3/1af6da98205d2b9904caa399785386e9/transformed/jetified-flipper-integration-0.73.4-debug/AndroidManifest.xml:2:1-7:12
-MERGED from [:react-native-async-storage_async-storage] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
-MERGED from [:react-native-community_netinfo] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-10:12
-MERGED from [:react-native-masked-view_masked-view] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/@react-native-masked-view/masked-view/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
-MERGED from [:react-native-date-picker] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-date-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
-MERGED from [:react-native-device-info] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-device-info/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
-MERGED from [:react-native-exception-handler] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-exception-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-12:12
-MERGED from [:react-native-gesture-handler] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
-MERGED from [:react-native-image-picker] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-19:12
-MERGED from [:react-native-linear-gradient] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-linear-gradient/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
-MERGED from [:react-native-network-info] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-network-info/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [:react-native-permissions] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-permissions/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
-MERGED from [:react-native-reanimated] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-reanimated/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
-MERGED from [:react-native-safe-area-context] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
-MERGED from [:react-native-screens] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
-MERGED from [:react-native-webview] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-19:12
-MERGED from [:rn-fetch-blob] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-43:12
+MERGED from [:react-native-async-storage_async-storage] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-community_netinfo] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-10:12
+MERGED from [:react-native-masked-view_masked-view] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/@react-native-masked-view/masked-view/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-date-picker] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-date-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-device-info] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-device-info/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-exception-handler] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-exception-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-gesture-handler] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-image-picker] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-19:12
+MERGED from [:react-native-linear-gradient] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-linear-gradient/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-network-info] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-network-info/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-permissions] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-permissions/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-reanimated] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-reanimated/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-safe-area-context] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-screens] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-webview] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-19:12
+MERGED from [:rn-fetch-blob] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-43:12
 MERGED from [com.facebook.react:react-android:0.73.4] /Users/riyaz/.gradle/caches/transforms-3/b4db2f23f2ab214a51186ce21dfe946e/transformed/jetified-react-android-0.73.4-debug/AndroidManifest.xml:2:1-24:12
 MERGED from [com.facebook.fresco:flipper-fresco-plugin:3.1.3] /Users/riyaz/.gradle/caches/transforms-3/2b5ba21ddda073e33e012f0d689623c6/transformed/jetified-flipper-fresco-plugin-3.1.3/AndroidManifest.xml:8:1-13:12
 MERGED from [com.facebook.fresco:flipper:3.1.3] /Users/riyaz/.gradle/caches/transforms-3/78a2f7f2f5ffb04c17532765310fabea/transformed/jetified-flipper-3.1.3/AndroidManifest.xml:2:1-7:12
@@ -102,40 +102,40 @@ MERGED from [net.time4j:time4j-android:4.8-2021a] /Users/riyaz/.gradle/caches/tr
 MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/riyaz/.gradle/caches/transforms-3/7347c325151bfcdf75aa8769efa26987/transformed/jetified-installreferrer-1.1.2/AndroidManifest.xml:2:1-13:12
 MERGED from [com.android.ndk.thirdparty:openssl:1.1.1l-beta-1] /Users/riyaz/.gradle/caches/transforms-3/9293682cb53936b0e929c86eac194797/transformed/jetified-openssl-1.1.1l-beta-1/AndroidManifest.xml:1:1-3:12
 	package
-		INJECTED from /Users/riyaz/Best_Labz/New_project/hydroCart/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/android/app/src/debug/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/riyaz/Best_Labz/New_project/hydroCart/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/android/app/src/debug/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /Users/riyaz/Best_Labz/New_project/hydroCart/android/app/src/debug/AndroidManifest.xml:3:5-51
+		ADDED from /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/android/app/src/debug/AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from /Users/riyaz/Best_Labz/New_project/hydroCart/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/android/app/src/debug/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/riyaz/Best_Labz/New_project/hydroCart/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /Users/riyaz/Best_Labz/New_project/hydroCart/android/app/src/main/AndroidManifest.xml:3:5-67
-MERGED from [:react-native-network-info] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-network-info/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-67
-MERGED from [:react-native-network-info] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-network-info/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-67
-MERGED from [:rn-fetch-blob] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-67
-MERGED from [:rn-fetch-blob] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-67
+ADDED from /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/android/app/src/main/AndroidManifest.xml:3:5-67
+MERGED from [:react-native-network-info] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-network-info/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-67
+MERGED from [:react-native-network-info] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-network-info/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-67
+MERGED from [:rn-fetch-blob] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-67
+MERGED from [:rn-fetch-blob] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-67
 MERGED from [com.facebook.flipper:flipper:0.201.0] /Users/riyaz/.gradle/caches/transforms-3/9b2c28bd5719adb7e465469e2ca76c12/transformed/jetified-flipper-0.201.0/AndroidManifest.xml:13:5-67
 MERGED from [com.facebook.flipper:flipper:0.201.0] /Users/riyaz/.gradle/caches/transforms-3/9b2c28bd5719adb7e465469e2ca76c12/transformed/jetified-flipper-0.201.0/AndroidManifest.xml:13:5-67
 MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/riyaz/.gradle/caches/transforms-3/7d00a3d973e62c64256363b4cb614082/transformed/jetified-play-services-iid-17.0.0/AndroidManifest.xml:24:5-67
 MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/riyaz/.gradle/caches/transforms-3/7d00a3d973e62c64256363b4cb614082/transformed/jetified-play-services-iid-17.0.0/AndroidManifest.xml:24:5-67
 	android:name
-		ADDED from /Users/riyaz/Best_Labz/New_project/hydroCart/android/app/src/main/AndroidManifest.xml:3:22-64
+		ADDED from /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/android/app/src/main/AndroidManifest.xml:3:22-64
 application
-ADDED from /Users/riyaz/Best_Labz/New_project/hydroCart/android/app/src/main/AndroidManifest.xml:5:5-24:19
-MERGED from /Users/riyaz/Best_Labz/New_project/hydroCart/android/app/src/main/AndroidManifest.xml:5:5-24:19
-MERGED from /Users/riyaz/Best_Labz/New_project/hydroCart/android/app/src/main/AndroidManifest.xml:5:5-24:19
-INJECTED from /Users/riyaz/Best_Labz/New_project/hydroCart/android/app/src/debug/AndroidManifest.xml:5:5-8:50
-MERGED from [:react-native-exception-handler] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-exception-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-10:19
-MERGED from [:react-native-exception-handler] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-exception-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-10:19
-MERGED from [:react-native-image-picker] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-17:19
-MERGED from [:react-native-image-picker] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-17:19
-MERGED from [:react-native-webview] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-17:19
-MERGED from [:react-native-webview] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-17:19
-MERGED from [:rn-fetch-blob] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:31:5-41:19
-MERGED from [:rn-fetch-blob] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:31:5-41:19
+ADDED from /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/android/app/src/main/AndroidManifest.xml:5:5-24:19
+MERGED from /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/android/app/src/main/AndroidManifest.xml:5:5-24:19
+MERGED from /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/android/app/src/main/AndroidManifest.xml:5:5-24:19
+INJECTED from /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/android/app/src/debug/AndroidManifest.xml:5:5-8:50
+MERGED from [:react-native-exception-handler] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-exception-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-10:19
+MERGED from [:react-native-exception-handler] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-exception-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-10:19
+MERGED from [:react-native-image-picker] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-17:19
+MERGED from [:react-native-image-picker] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-17:19
+MERGED from [:react-native-webview] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-17:19
+MERGED from [:react-native-webview] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-17:19
+MERGED from [:rn-fetch-blob] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:31:5-41:19
+MERGED from [:rn-fetch-blob] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:31:5-41:19
 MERGED from [com.facebook.react:react-android:0.73.4] /Users/riyaz/.gradle/caches/transforms-3/b4db2f23f2ab214a51186ce21dfe946e/transformed/jetified-react-android-0.73.4-debug/AndroidManifest.xml:18:5-22:19
 MERGED from [com.facebook.react:react-android:0.73.4] /Users/riyaz/.gradle/caches/transforms-3/b4db2f23f2ab214a51186ce21dfe946e/transformed/jetified-react-android-0.73.4-debug/AndroidManifest.xml:18:5-22:19
 MERGED from [com.google.android.material:material:1.9.0] /Users/riyaz/.gradle/caches/transforms-3/d3a8a24834f295d8078f18b8298041f7/transformed/material-1.9.0/AndroidManifest.xml:24:5-20
@@ -171,95 +171,95 @@ MERGED from [net.time4j:time4j-android:4.8-2021a] /Users/riyaz/.gradle/caches/tr
 MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/riyaz/.gradle/caches/transforms-3/7347c325151bfcdf75aa8769efa26987/transformed/jetified-installreferrer-1.1.2/AndroidManifest.xml:11:5-20
 MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/riyaz/.gradle/caches/transforms-3/7347c325151bfcdf75aa8769efa26987/transformed/jetified-installreferrer-1.1.2/AndroidManifest.xml:11:5-20
 	android:extractNativeLibs
-		INJECTED from /Users/riyaz/Best_Labz/New_project/hydroCart/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/android/app/src/debug/AndroidManifest.xml
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.9.0] /Users/riyaz/.gradle/caches/transforms-3/13659b94c66de92d98d7f8af61234b95/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
 	android:label
-		ADDED from /Users/riyaz/Best_Labz/New_project/hydroCart/android/app/src/main/AndroidManifest.xml:7:7-39
-		ADDED from /Users/riyaz/Best_Labz/New_project/hydroCart/android/app/src/main/AndroidManifest.xml:7:7-39
+		ADDED from /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/android/app/src/main/AndroidManifest.xml:7:7-39
+		ADDED from /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/android/app/src/main/AndroidManifest.xml:7:7-39
 	tools:ignore
-		ADDED from /Users/riyaz/Best_Labz/New_project/hydroCart/android/app/src/debug/AndroidManifest.xml:8:9-48
+		ADDED from /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/android/app/src/debug/AndroidManifest.xml:8:9-48
 	android:roundIcon
-		ADDED from /Users/riyaz/Best_Labz/New_project/hydroCart/android/app/src/main/AndroidManifest.xml:9:7-52
-		ADDED from /Users/riyaz/Best_Labz/New_project/hydroCart/android/app/src/main/AndroidManifest.xml:9:7-52
+		ADDED from /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/android/app/src/main/AndroidManifest.xml:9:7-52
+		ADDED from /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/android/app/src/main/AndroidManifest.xml:9:7-52
 	tools:targetApi
-		ADDED from /Users/riyaz/Best_Labz/New_project/hydroCart/android/app/src/debug/AndroidManifest.xml:7:9-29
+		ADDED from /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/android/app/src/debug/AndroidManifest.xml:7:9-29
 	android:icon
-		ADDED from /Users/riyaz/Best_Labz/New_project/hydroCart/android/app/src/main/AndroidManifest.xml:8:7-41
-		ADDED from /Users/riyaz/Best_Labz/New_project/hydroCart/android/app/src/main/AndroidManifest.xml:8:7-41
+		ADDED from /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/android/app/src/main/AndroidManifest.xml:8:7-41
+		ADDED from /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/android/app/src/main/AndroidManifest.xml:8:7-41
 	android:allowBackup
-		ADDED from /Users/riyaz/Best_Labz/New_project/hydroCart/android/app/src/main/AndroidManifest.xml:10:7-34
-		ADDED from /Users/riyaz/Best_Labz/New_project/hydroCart/android/app/src/main/AndroidManifest.xml:10:7-34
+		ADDED from /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/android/app/src/main/AndroidManifest.xml:10:7-34
+		ADDED from /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/android/app/src/main/AndroidManifest.xml:10:7-34
 	android:theme
-		ADDED from /Users/riyaz/Best_Labz/New_project/hydroCart/android/app/src/main/AndroidManifest.xml:11:7-38
-		ADDED from /Users/riyaz/Best_Labz/New_project/hydroCart/android/app/src/main/AndroidManifest.xml:11:7-38
+		ADDED from /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/android/app/src/main/AndroidManifest.xml:11:7-38
+		ADDED from /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/android/app/src/main/AndroidManifest.xml:11:7-38
 	android:usesCleartextTraffic
-		ADDED from /Users/riyaz/Best_Labz/New_project/hydroCart/android/app/src/debug/AndroidManifest.xml:6:9-44
+		ADDED from /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/android/app/src/debug/AndroidManifest.xml:6:9-44
 	android:name
-		ADDED from /Users/riyaz/Best_Labz/New_project/hydroCart/android/app/src/main/AndroidManifest.xml:6:7-38
-		ADDED from /Users/riyaz/Best_Labz/New_project/hydroCart/android/app/src/main/AndroidManifest.xml:6:7-38
+		ADDED from /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/android/app/src/main/AndroidManifest.xml:6:7-38
+		ADDED from /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/android/app/src/main/AndroidManifest.xml:6:7-38
 activity#com.hydrocart.MainActivity
-ADDED from /Users/riyaz/Best_Labz/New_project/hydroCart/android/app/src/main/AndroidManifest.xml:12:7-23:18
+ADDED from /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/android/app/src/main/AndroidManifest.xml:12:7-23:18
 	android:label
-		ADDED from /Users/riyaz/Best_Labz/New_project/hydroCart/android/app/src/main/AndroidManifest.xml:14:9-41
+		ADDED from /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/android/app/src/main/AndroidManifest.xml:14:9-41
 	android:launchMode
-		ADDED from /Users/riyaz/Best_Labz/New_project/hydroCart/android/app/src/main/AndroidManifest.xml:16:9-40
+		ADDED from /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/android/app/src/main/AndroidManifest.xml:16:9-40
 	android:windowSoftInputMode
-		ADDED from /Users/riyaz/Best_Labz/New_project/hydroCart/android/app/src/main/AndroidManifest.xml:17:9-51
+		ADDED from /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/android/app/src/main/AndroidManifest.xml:17:9-51
 	android:exported
-		ADDED from /Users/riyaz/Best_Labz/New_project/hydroCart/android/app/src/main/AndroidManifest.xml:18:9-32
+		ADDED from /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/android/app/src/main/AndroidManifest.xml:18:9-32
 	android:configChanges
-		ADDED from /Users/riyaz/Best_Labz/New_project/hydroCart/android/app/src/main/AndroidManifest.xml:15:9-118
+		ADDED from /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/android/app/src/main/AndroidManifest.xml:15:9-118
 	android:name
-		ADDED from /Users/riyaz/Best_Labz/New_project/hydroCart/android/app/src/main/AndroidManifest.xml:13:9-37
+		ADDED from /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/android/app/src/main/AndroidManifest.xml:13:9-37
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/riyaz/Best_Labz/New_project/hydroCart/android/app/src/main/AndroidManifest.xml:19:9-22:25
+ADDED from /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/android/app/src/main/AndroidManifest.xml:19:9-22:25
 action#android.intent.action.MAIN
-ADDED from /Users/riyaz/Best_Labz/New_project/hydroCart/android/app/src/main/AndroidManifest.xml:20:13-65
+ADDED from /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/android/app/src/main/AndroidManifest.xml:20:13-65
 	android:name
-		ADDED from /Users/riyaz/Best_Labz/New_project/hydroCart/android/app/src/main/AndroidManifest.xml:20:21-62
+		ADDED from /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/android/app/src/main/AndroidManifest.xml:20:21-62
 category#android.intent.category.LAUNCHER
-ADDED from /Users/riyaz/Best_Labz/New_project/hydroCart/android/app/src/main/AndroidManifest.xml:21:13-73
+ADDED from /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/android/app/src/main/AndroidManifest.xml:21:13-73
 	android:name
-		ADDED from /Users/riyaz/Best_Labz/New_project/hydroCart/android/app/src/main/AndroidManifest.xml:21:23-70
+		ADDED from /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/android/app/src/main/AndroidManifest.xml:21:23-70
 uses-sdk
-INJECTED from /Users/riyaz/Best_Labz/New_project/hydroCart/android/app/src/debug/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/riyaz/Best_Labz/New_project/hydroCart/android/app/src/debug/AndroidManifest.xml
-INJECTED from /Users/riyaz/Best_Labz/New_project/hydroCart/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/android/app/src/debug/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/android/app/src/debug/AndroidManifest.xml
 MERGED from [com.facebook.react:flipper-integration:0.73.4] /Users/riyaz/.gradle/caches/transforms-3/1af6da98205d2b9904caa399785386e9/transformed/jetified-flipper-integration-0.73.4-debug/AndroidManifest.xml:5:5-44
 MERGED from [com.facebook.react:flipper-integration:0.73.4] /Users/riyaz/.gradle/caches/transforms-3/1af6da98205d2b9904caa399785386e9/transformed/jetified-flipper-integration-0.73.4-debug/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-async-storage_async-storage] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-async-storage_async-storage] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-community_netinfo] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-community_netinfo] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-masked-view_masked-view] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/@react-native-masked-view/masked-view/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-masked-view_masked-view] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/@react-native-masked-view/masked-view/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-date-picker] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-date-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-date-picker] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-date-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-device-info] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-device-info/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-device-info] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-device-info/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-exception-handler] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-exception-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-exception-handler] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-exception-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-gesture-handler] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-gesture-handler] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-image-picker] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-image-picker] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-linear-gradient] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-linear-gradient/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-linear-gradient] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-linear-gradient/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-network-info] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-network-info/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-network-info] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-network-info/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-permissions] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-permissions/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-permissions] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-permissions/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-reanimated] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-reanimated/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-reanimated] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-reanimated/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-safe-area-context] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-safe-area-context] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-screens] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-screens] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-webview] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-webview] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:rn-fetch-blob] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:rn-fetch-blob] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-async-storage_async-storage] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-async-storage_async-storage] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-community_netinfo] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-community_netinfo] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-masked-view_masked-view] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/@react-native-masked-view/masked-view/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-masked-view_masked-view] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/@react-native-masked-view/masked-view/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-date-picker] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-date-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-date-picker] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-date-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-device-info] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-device-info/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-device-info] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-device-info/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-exception-handler] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-exception-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-exception-handler] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-exception-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-gesture-handler] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-gesture-handler] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-image-picker] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-image-picker] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-linear-gradient] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-linear-gradient/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-linear-gradient] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-linear-gradient/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-network-info] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-network-info/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-network-info] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-network-info/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-permissions] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-permissions/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-permissions] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-permissions/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-reanimated] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-reanimated/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-reanimated] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-reanimated/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-safe-area-context] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-safe-area-context] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-screens] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-screens] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-webview] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-webview] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:rn-fetch-blob] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:rn-fetch-blob] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [com.facebook.react:react-android:0.73.4] /Users/riyaz/.gradle/caches/transforms-3/b4db2f23f2ab214a51186ce21dfe946e/transformed/jetified-react-android-0.73.4-debug/AndroidManifest.xml:10:5-44
 MERGED from [com.facebook.react:react-android:0.73.4] /Users/riyaz/.gradle/caches/transforms-3/b4db2f23f2ab214a51186ce21dfe946e/transformed/jetified-react-android-0.73.4-debug/AndroidManifest.xml:10:5-44
 MERGED from [com.facebook.fresco:flipper-fresco-plugin:3.1.3] /Users/riyaz/.gradle/caches/transforms-3/2b5ba21ddda073e33e012f0d689623c6/transformed/jetified-flipper-fresco-plugin-3.1.3/AndroidManifest.xml:11:5-44
@@ -419,81 +419,81 @@ MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/riyaz/.gr
 MERGED from [com.android.ndk.thirdparty:openssl:1.1.1l-beta-1] /Users/riyaz/.gradle/caches/transforms-3/9293682cb53936b0e929c86eac194797/transformed/jetified-openssl-1.1.1l-beta-1/AndroidManifest.xml:2:2-70
 MERGED from [com.android.ndk.thirdparty:openssl:1.1.1l-beta-1] /Users/riyaz/.gradle/caches/transforms-3/9293682cb53936b0e929c86eac194797/transformed/jetified-openssl-1.1.1l-beta-1/AndroidManifest.xml:2:2-70
 	android:targetSdkVersion
-		INJECTED from /Users/riyaz/Best_Labz/New_project/hydroCart/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/android/app/src/debug/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/riyaz/Best_Labz/New_project/hydroCart/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/android/app/src/debug/AndroidManifest.xml
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [:react-native-community_netinfo] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-79
-MERGED from [:react-native-network-info] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-network-info/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:8:5-79
-MERGED from [:react-native-network-info] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-network-info/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:8:5-79
-MERGED from [:rn-fetch-blob] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:23:5-79
-MERGED from [:rn-fetch-blob] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:23:5-79
+ADDED from [:react-native-community_netinfo] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-79
+MERGED from [:react-native-network-info] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-network-info/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:8:5-79
+MERGED from [:react-native-network-info] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-network-info/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:8:5-79
+MERGED from [:rn-fetch-blob] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:23:5-79
+MERGED from [:rn-fetch-blob] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:23:5-79
 	android:name
-		ADDED from [:react-native-community_netinfo] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:7:22-76
+		ADDED from [:react-native-community_netinfo] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:7:22-76
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from [:react-native-community_netinfo] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:8:5-76
-MERGED from [:react-native-network-info] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-network-info/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-76
-MERGED from [:react-native-network-info] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-network-info/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-76
-MERGED from [:rn-fetch-blob] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:26:5-76
-MERGED from [:rn-fetch-blob] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:26:5-76
+ADDED from [:react-native-community_netinfo] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:8:5-76
+MERGED from [:react-native-network-info] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-network-info/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-76
+MERGED from [:react-native-network-info] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-network-info/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-76
+MERGED from [:rn-fetch-blob] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:26:5-76
+MERGED from [:rn-fetch-blob] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:26:5-76
 MERGED from [com.facebook.flipper:flipper:0.201.0] /Users/riyaz/.gradle/caches/transforms-3/9b2c28bd5719adb7e465469e2ca76c12/transformed/jetified-flipper-0.201.0/AndroidManifest.xml:14:5-76
 MERGED from [com.facebook.flipper:flipper:0.201.0] /Users/riyaz/.gradle/caches/transforms-3/9b2c28bd5719adb7e465469e2ca76c12/transformed/jetified-flipper-0.201.0/AndroidManifest.xml:14:5-76
 	android:name
-		ADDED from [:react-native-community_netinfo] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:8:22-73
+		ADDED from [:react-native-community_netinfo] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:8:22-73
 activity#com.masteratul.exceptionhandler.DefaultErrorScreen
-ADDED from [:react-native-exception-handler] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-exception-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:8:9-9:20
+ADDED from [:react-native-exception-handler] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-exception-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:8:9-9:20
 	android:name
-		ADDED from [:react-native-exception-handler] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-exception-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:8:19-84
+		ADDED from [:react-native-exception-handler] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-exception-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:8:19-84
 provider#com.imagepicker.ImagePickerProvider
-ADDED from [:react-native-image-picker] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:8:9-16:20
+ADDED from [:react-native-image-picker] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:8:9-16:20
 	android:grantUriPermissions
-		ADDED from [:react-native-image-picker] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-47
+		ADDED from [:react-native-image-picker] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-47
 	android:authorities
-		ADDED from [:react-native-image-picker] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:13-71
+		ADDED from [:react-native-image-picker] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:13-71
 	android:exported
-		ADDED from [:react-native-image-picker] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-37
+		ADDED from [:react-native-image-picker] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-37
 	android:name
-		ADDED from [:react-native-image-picker] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:13-63
+		ADDED from [:react-native-image-picker] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:13-63
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from [:react-native-image-picker] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-15:70
+ADDED from [:react-native-image-picker] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-15:70
 	android:resource
-		ADDED from [:react-native-image-picker] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:17-67
+		ADDED from [:react-native-image-picker] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:17-67
 	android:name
-		ADDED from [:react-native-image-picker] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:17-67
+		ADDED from [:react-native-image-picker] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:17-67
 provider#com.reactnativecommunity.webview.RNCWebViewFileProvider
-ADDED from [:react-native-webview] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:8:9-16:20
+ADDED from [:react-native-webview] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:8:9-16:20
 	android:grantUriPermissions
-		ADDED from [:react-native-webview] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-47
+		ADDED from [:react-native-webview] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-47
 	android:authorities
-		ADDED from [:react-native-webview] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:13-64
+		ADDED from [:react-native-webview] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:13-64
 	android:exported
-		ADDED from [:react-native-webview] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-37
+		ADDED from [:react-native-webview] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-37
 	android:name
-		ADDED from [:react-native-webview] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:13-83
+		ADDED from [:react-native-webview] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:13-83
 uses-permission#com.android.vending.CHECK_LICENSE
-ADDED from [:rn-fetch-blob] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:8:5-73
+ADDED from [:rn-fetch-blob] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:8:5-73
 	android:name
-		ADDED from [:rn-fetch-blob] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:8:22-70
+		ADDED from [:rn-fetch-blob] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:8:22-70
 uses-permission#android.permission.WAKE_LOCK
-ADDED from [:rn-fetch-blob] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:5-68
+ADDED from [:rn-fetch-blob] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:5-68
 	android:name
-		ADDED from [:rn-fetch-blob] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:22-65
+		ADDED from [:rn-fetch-blob] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:22-65
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from [:rn-fetch-blob] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:29:5-81
+ADDED from [:rn-fetch-blob] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:29:5-81
 	android:name
-		ADDED from [:rn-fetch-blob] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:29:22-78
+		ADDED from [:rn-fetch-blob] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:29:22-78
 provider#com.RNFetchBlob.Utils.FileProvider
-ADDED from [:rn-fetch-blob] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:32:9-40:20
+ADDED from [:rn-fetch-blob] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:32:9-40:20
 	android:grantUriPermissions
-		ADDED from [:rn-fetch-blob] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:36:13-47
+		ADDED from [:rn-fetch-blob] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:36:13-47
 	android:authorities
-		ADDED from [:rn-fetch-blob] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:34:13-60
+		ADDED from [:rn-fetch-blob] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:34:13-60
 	android:exported
-		ADDED from [:rn-fetch-blob] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:35:13-37
+		ADDED from [:rn-fetch-blob] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:35:13-37
 	android:name
-		ADDED from [:rn-fetch-blob] /Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:33:13-62
+		ADDED from [:rn-fetch-blob] /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:33:13-62
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from /Users/riyaz/Best_Labz/New_project/hydroCart/android/app/src/debug/AndroidManifest.xml:2:1-9:12 reason: com.RNFetchBlob requested WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/android/app/src/debug/AndroidManifest.xml:2:1-9:12 reason: com.RNFetchBlob requested WRITE_EXTERNAL_STORAGE
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
 ADDED from [com.facebook.react:react-android:0.73.4] /Users/riyaz/.gradle/caches/transforms-3/b4db2f23f2ab214a51186ce21dfe946e/transformed/jetified-react-android-0.73.4-debug/AndroidManifest.xml:16:5-78
 	android:name

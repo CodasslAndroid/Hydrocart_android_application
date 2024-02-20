@@ -38,23 +38,6 @@
                     }
                 },
                 {
-                    "source": "/Users/riyaz/Best_Labz/New_project/hydroCart/node_modules/react-native-date-picker/android/build/intermediates/packaged_res/debug/values-fi/values-fi.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,114,178,236,295,339,404,453,516,572,618",
-                        "endColumns": "58,63,57,58,43,64,48,62,55,45,58",
-                        "endOffsets": "109,173,231,290,334,399,448,511,567,613,672"
-                    },
-                    "to": {
-                        "startLines": "34,64,65,69,70,92,93,94,131,149,152",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "3059,6754,6818,7106,7165,8742,8807,8856,11782,13230,13426",
-                        "endColumns": "58,63,57,58,43,64,48,62,55,45,58",
-                        "endOffsets": "3113,6813,6871,7160,7204,8802,8851,8914,11833,13271,13480"
-                    }
-                },
-                {
                     "source": "/Users/riyaz/.gradle/caches/transforms-3/e853fdf1e0156c040588ca88cd821bd9/transformed/jetified-play-services-base-17.0.0/res/values-fi/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
@@ -103,6 +86,23 @@
                         "startOffsets": "12973",
                         "endColumns": "100",
                         "endOffsets": "13069"
+                    }
+                },
+                {
+                    "source": "/Users/riyaz/Best_Labz/Hydrocart_mobile_application/Hydrocart_mobile_application/node_modules/react-native-date-picker/android/build/intermediates/packaged_res/debug/values-fi/values-fi.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,114,178,236,295,339,404,453,516,572,618",
+                        "endColumns": "58,63,57,58,43,64,48,62,55,45,58",
+                        "endOffsets": "109,173,231,290,334,399,448,511,567,613,672"
+                    },
+                    "to": {
+                        "startLines": "34,64,65,69,70,92,93,94,131,149,152",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "3059,6754,6818,7106,7165,8742,8807,8856,11782,13230,13426",
+                        "endColumns": "58,63,57,58,43,64,48,62,55,45,58",
+                        "endOffsets": "3113,6813,6871,7160,7204,8802,8851,8914,11833,13271,13480"
                     }
                 },
                 {
