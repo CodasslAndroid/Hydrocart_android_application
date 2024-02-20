@@ -135,6 +135,7 @@ export const Home = () => {
         console.log('err', err);
       });
   }, []);
+  //
 
   const handleWhilist = (item, index, wholeItem, type, selectedItem) => {
     setW_Loading(true);
