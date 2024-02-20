@@ -1,12 +1,13 @@
-import React from 'react';
-import {StyleSheet, View} from 'react-native';
-import {FontSize, color} from '../theme';
-import {Text} from '../ui-kit';
-import {Screen} from '../ui-kit/screen';
+import React from "react";
+import { StyleSheet, View } from "react-native";
+import { FontSize, color } from "../theme";
+import { Text } from "../ui-kit";
+import { Screen } from "../ui-kit/screen";
 
 export function NetworkConnectionError() {
+  //
   return (
-    <Screen variant={'scroll'}>
+    <Screen variant={"scroll"}>
       <View style={styles.errorContainer}>
         <View>
           {/* <Image
@@ -28,26 +29,26 @@ export function NetworkConnectionError() {
 const styles = StyleSheet.create({
   errorContainer: {
     flex: 1,
-    alignSelf: 'center',
-    alignItems: 'center',
+    alignSelf: "center",
+    alignItems: "center",
     paddingBottom: 30,
-    justifyContent: 'center',
+    justifyContent: "center",
     // backgroundColor: 'black',
   },
-  img: {height: 120, width: 120},
+  img: { height: 120, width: 120 },
   textContainer: {
-    alignItems: 'center',
+    alignItems: "center",
   },
   errorTitle: {
     fontSize: FontSize.font_Ex_Large_E,
-    fontWeight: 'bold',
+    fontWeight: "bold",
     color: color.palette.black,
   },
   subText: {
     fontSize: FontSize.font_large_E,
-    fontWeight: '500',
+    fontWeight: "500",
     paddingHorizontal: 50,
-    textAlign: 'center',
+    textAlign: "center",
     color: color.palette.black,
   },
 });
